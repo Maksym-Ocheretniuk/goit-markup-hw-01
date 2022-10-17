@@ -1,0 +1,6 @@
+{
+	"prettier.htmlWhitespaceSensitivity": "ignore",
+	"prettier.trailingComma": "all",
+	"prettier.prettierPath": ".prettierrc.json",
+	"prettier.arrowParens": "avoid"
+}
